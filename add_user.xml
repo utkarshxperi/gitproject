@@ -1,0 +1,18 @@
+HPONCFG 1  << end_marker
+<RIBCL VERSION="2.0">
+<LOGIN USER_LOGIN="bcops" PASSWORD="tiVo@min@!">
+ <USER_INFO MODE="write">
+   <ADD_USER
+     USER_NAME="bcops"
+     USER_LOGIN="bcops"
+     PASSWORD="tiVo@min@!">
+     <ADMIN_PRIV value ="Yes"/>
+     <REMOTE_CONS_PRIV value ="Yes"/>
+     <RESET_SERVER_PRIV value ="No"/>
+     <VIRTUAL_MEDIA_PRIV value ="Yes"/>
+     <CONFIG_ILO_PRIV value="Yes"/>
+   </ADD_USER>
+ </USER_INFO>
+ </LOGIN>
+</RIBCL>
+end_marker
