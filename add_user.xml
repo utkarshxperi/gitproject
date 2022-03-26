@@ -1,4 +1,3 @@
-HPONCFG 1  << end_marker
 <RIBCL VERSION="2.0">
 <LOGIN USER_LOGIN="bcops" PASSWORD="tiVo@min@!">
  <USER_INFO MODE="write">
@@ -15,4 +14,3 @@ HPONCFG 1  << end_marker
  </USER_INFO>
  </LOGIN>
 </RIBCL>
-end_marker
